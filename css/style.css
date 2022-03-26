@@ -1,0 +1,25 @@
+@import url('components/banner.css');
+@import url('components/navbar.css');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('components/card.css');
+@import url('components/footer.css');
+@import url('components/rules.css');
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+h1, h2, h3, h4 {
+  font-size: 26px;
+}
+
+p {
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+}
+/* Custom design below! */
